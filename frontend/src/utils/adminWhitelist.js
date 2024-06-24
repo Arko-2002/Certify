@@ -1,0 +1,2 @@
+const ADMIN_ADDRESS = '0xea034b47f51d8471e8cbe7f3e41f1fe476475388';
+export default ADMIN_ADDRESS;
